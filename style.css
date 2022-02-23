@@ -1,0 +1,18 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+#shape{
+width: 200px;
+height: 200px;
+background-color: red;
+display: none;
+position:relative
+
+
+
+}
+.body{
+font-weight:bold
+}
